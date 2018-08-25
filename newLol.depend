@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1535224154 source:g:\desktop\projects\c++\newlol\main.cpp
+	<iostream>
+	<mattgui.h>
+	<cstring>
+
